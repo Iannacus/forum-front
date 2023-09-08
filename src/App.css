@@ -1,0 +1,27 @@
+html {
+  box-sizing: border-box;
+  background: #0d0d38;
+  font-family: "Ubuntu", sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+*,
+*:after,
+*:before {
+  box-sizing: inherit;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: white;
+}
